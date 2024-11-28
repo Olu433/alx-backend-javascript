@@ -30,7 +30,7 @@ The project implements a simple API and utility functions that are tested using 
 ### Setup  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone www.github.com/Olu433/alx-backend-javascript/0x06-unittests_in_js  
    ```  
 2. Navigate to the project directory:  
    ```bash  
